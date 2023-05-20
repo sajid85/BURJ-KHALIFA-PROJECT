@@ -1,2 +1,0 @@
-sajid|111111|sajid|ada@ada.com|Male|2012-01-02|Admin
-sajid|123456|sajid|20-44221-3@student.aiub.edu|Male|2007-12-31|Admin
