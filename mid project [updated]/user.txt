@@ -1,4 +1,0 @@
-sajid|1234|sajid alam|sajid@gmail.com|Male|1999-11-23
-saajid|1234|sajid|20-44221-3@student.aiub.edu|Male|2023-03-01|
-qwe|1111|sajid|20-44221-3@student.aiub.edu|Male|2023-03-01|
-joydeb|1111|sajid|20-44221-3@student.aiub.edu|Male|2023-03-01|
